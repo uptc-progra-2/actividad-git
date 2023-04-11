@@ -17,13 +17,16 @@ public class Application {
     public static void javierLopez(){
         System.out.println("Hello Javier Lopez");
     }
-
+   private static void wCely(){
+       System.out.println("Bom dia WilliamC");
+   }
     public static void main(String[] args) {
         emeneses();
         lSosa();
         rMolinares();
         aMaldonado();
         javierLopez();
-
+        lunnaSosa();
+        wCely();
     }
 }
