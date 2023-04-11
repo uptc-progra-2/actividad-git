@@ -4,6 +4,9 @@ public class Application {
     private static void emeneses() {
         System.out.println("Hello Edgar Meneses");
     }
+     private static void lunnaSosa() {
+        System.out.println("Hello Lunna Sosa");
+    }
 
 
     private static void aMaldonado() {
@@ -18,5 +21,6 @@ public class Application {
         emeneses();
         aMaldonado();
         javierLopez();
+        lunnaSosa();
     }
 }
