@@ -5,6 +5,14 @@ public class Application {
 
         System.out.println("Hello Edgar Meneses");
     }
+
+    public static void andresBarrera(){
+        System.out.println("hello andres barrera :v");
+
+
+
+        System.out.println("Hello Edgar Meneses");
+    }
     public static void juanLopez(){
         System.out.println("Hello Juan López");
     }
@@ -37,10 +45,15 @@ public class Application {
 
     private static void name (){
         System.out.printf("Hola, soy David");
+
     }
 
     public static void main(String[] args) {
         emeneses();
+
+        andresBarrera();
+    }
+}
         name();
 
         l_Castellanos();
@@ -53,3 +66,4 @@ public class Application {
         
     }
 }
+
