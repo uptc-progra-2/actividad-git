@@ -17,7 +17,7 @@ public class Application {
         System.out.println("Hello Javier Lopez");
     }
    private static void wCely(){
-       System.out.println("Bom dia WilliamC")
+       System.out.println("Bom dia WilliamC");
    }
     public static void main(String[] args) {
         emeneses();
