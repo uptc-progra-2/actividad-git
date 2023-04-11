@@ -35,8 +35,14 @@ public class Application {
         System.out.println("Bonjour L. Castellanos");
     }
 
+    private static void name (){
+        System.out.printf("Hola, soy David");
+    }
+
     public static void main(String[] args) {
         emeneses();
+        name();
+
         l_Castellanos();
         lSosa();
         rMolinares();
