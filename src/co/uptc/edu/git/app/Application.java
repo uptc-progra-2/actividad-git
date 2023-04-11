@@ -8,10 +8,6 @@ public class Application {
 
     public static void andresBarrera(){
         System.out.println("hello andres barrera :v");
-
-
-
-        System.out.println("Hello Edgar Meneses");
     }
     public static void juanLopez(){
         System.out.println("Hello Juan López");
@@ -52,8 +48,6 @@ public class Application {
         emeneses();
 
         andresBarrera();
-    }
-}
         name();
 
         l_Castellanos();
