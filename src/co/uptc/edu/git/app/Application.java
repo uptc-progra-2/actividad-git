@@ -7,7 +7,7 @@ public class Application {
 
     private static void rMolinares(){
         System.out.println("Buenos días");
-
+    }
 
     private static void aMaldonado() {
         System.out.println("Hello Andres");
@@ -16,14 +16,18 @@ public class Application {
     public static void javierLopez(){
         System.out.println("Hello Javier Lopez");
     }
-   private static void wCely(){
-       System.out.println("Bom dia WilliamC")
-   }
+    private static void wCely(){
+        System.out.println("Bom dia WilliamC");
+    }
+
+    private static void l_Castellanos() {
+        System.out.println("Bonjour L. Castellanos");
+    } 
     public static void main(String[] args) {
         emeneses();
-        RonaldMolinares
         rMolinares();
-
+        rMolinares();
+        l_Castellanos();
         aMaldonado();
         javierLopez();
         wCely();
