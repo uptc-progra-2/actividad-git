@@ -5,6 +5,10 @@ public class Application {
         System.out.println("Hello Edgar Meneses");
     }
 
+    private static void lunnaSosa() {
+        System.out.println("Hello Lunna Sosa");
+    }
+
     private static void rMolinares(){
         System.out.println("Buenos días");
     }
@@ -23,9 +27,11 @@ public class Application {
 
     public static void main(String[] args) {
         emeneses();
+
         rMolinares();
         aMaldonado();
         javierLopez();
+        lunnaSosa();
         wCely();
     }
 }
