@@ -27,18 +27,23 @@ public class Application {
     public static void javierLopez() {
         System.out.println("Hello Javier Lopez");
     }
-
-    private static void wCely() {
+    private static void wCely(){
         System.out.println("Bom dia WilliamC");
+    }
+
+    private static void l_Castellanos() {
+        System.out.println("Bonjour L. Castellanos");
     }
 
     public static void main(String[] args) {
         emeneses();
+        l_Castellanos();
         lSosa();
         rMolinares();
         aMaldonado();
         javierLopez();
         lunnaSosa();
         wCely();
+        
     }
 }
