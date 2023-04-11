@@ -4,11 +4,12 @@ public class Application {
     private static void emeneses() {
         System.out.println("Hello Edgar Meneses");
     }
-
+    private static void lSosa(){
+        System.out.println("Hello Lunna Sosa");
+    }
     private static void rMolinares(){
         System.out.println("Buenos días");
-
-
+    }
     private static void aMaldonado() {
         System.out.println("Hello Andres");
     }
@@ -19,9 +20,8 @@ public class Application {
 
     public static void main(String[] args) {
         emeneses();
-        RonaldMolinares
+        lSosa();
         rMolinares();
-
         aMaldonado();
         javierLopez();
 
