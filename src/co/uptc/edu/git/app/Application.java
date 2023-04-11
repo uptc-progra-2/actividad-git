@@ -9,10 +9,6 @@ public class Application {
         System.out.println("Hello Lunna Sosa");
     }
 
-    private static void rMolinares(){
-        System.out.println("Buenos días");
-    }
-
     private static void lSosa(){
         System.out.println("Hello Lunna Sosa");
     }
