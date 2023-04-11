@@ -5,6 +5,13 @@ public class Application {
         System.out.println("Hello Edgar Meneses");
     }
 
+    private static void lunnaSosa() {
+        System.out.println("Hello Lunna Sosa");
+    }
+
+    private static void lSosa(){
+        System.out.println("Hello Lunna Sosa");
+    }
     private static void rMolinares(){
         System.out.println("Buenos días");
     }
@@ -13,7 +20,7 @@ public class Application {
         System.out.println("Hello Andres");
     }
 
-    public static void javierLopez(){
+    public static void javierLopez() {
         System.out.println("Hello Javier Lopez");
     }
     private static void wCely(){
@@ -22,14 +29,16 @@ public class Application {
 
     private static void l_Castellanos() {
         System.out.println("Bonjour L. Castellanos");
-    } 
+    }
+
     public static void main(String[] args) {
         emeneses();
-        rMolinares();
-        rMolinares();
         l_Castellanos();
+        lSosa();
+        rMolinares();
         aMaldonado();
         javierLopez();
+        lunnaSosa();
         wCely();
         
     }
