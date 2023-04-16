@@ -5,7 +5,9 @@ public class Application {
 
         System.out.println("Hello Edgar Meneses");
     }
-
+    private static void sRueda(){
+        System.out.println("hello Sebastian Rueda");
+    }
     public static void andresBarrera(){
         System.out.println("hello andres barrera :v");
     }
@@ -57,7 +59,7 @@ public class Application {
         javierLopez();
         lunnaSosa();
         wCely();
-        
+        sRueda();
     }
 }
 
